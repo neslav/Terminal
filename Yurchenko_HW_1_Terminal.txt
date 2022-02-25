@@ -49,6 +49,3 @@ mv 1.txt 1.json pap1
 |
 bash scr1.sh
 
-
-
-
